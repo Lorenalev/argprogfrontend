@@ -1,3 +1,6 @@
 Estado de los archivos
 U= Untracked files (no llego a Git)
 M= modificado
+Add= agregar (. agrega todo)
+Git push -u origin
+
